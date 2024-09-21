@@ -14,5 +14,3 @@ ___
 ___
 
 
-
-buatkan agar posisi gif berada di tengah
