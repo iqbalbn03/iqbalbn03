@@ -1,5 +1,5 @@
 
-![Live Wallpaper Anime HD 4K - Samurai Autumn](https://github.com/user-attachments/assets/68218163-f623-4fd0-ac8c-06f8165f2912)
+![Live Wallpaper Anime HD 4K - Samurai Autumn (1)](https://github.com/user-attachments/assets/66f27289-867b-4978-97b7-a39b2c5b0f70)
 
 
 
