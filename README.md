@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<hr style="border: 1px dashed #0000FF;" />
+<hr style="height: 3px; border: none; background: linear-gradient(to right, #0000FF, #00FFFF);" />
+
 
 
 
