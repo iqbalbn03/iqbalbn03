@@ -13,9 +13,7 @@ ___
 ___
 
 
-ffmpeg -i input.wav -c:a aac -b:a 128k -vn output.mp4
-<video src='[https://github.com/user-attachments/assets/74939a7c-7060-4013-85d5-c6f0859a8a00]'/>
 
 
-
+https://github.com/user-attachments/assets/5d68beae-2224-4ba3-b1c9-87c2c09ae026
 
