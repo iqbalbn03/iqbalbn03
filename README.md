@@ -14,6 +14,3 @@ ___
 
 
 
-
-https://github.com/user-attachments/assets/5d68beae-2224-4ba3-b1c9-87c2c09ae026
-
